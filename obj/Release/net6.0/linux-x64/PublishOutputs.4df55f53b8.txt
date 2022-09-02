@@ -1,0 +1,2 @@
+/home/david/Dokument/Projects/ENBLauncher/bin/Release/net6.0/linux-x64/publish/ENBLauncher.pdb
+/home/david/Dokument/Projects/ENBLauncher/bin/Release/net6.0/linux-x64/publish/ENBLauncher
